@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 200;
+  src: url(/_res/opmnew/etc/NotoSansKR-Light.woff2) format('woff2'),
+       url(/_res/opmnew/etc/NotoSansKR-Light.woff) format('woff'),
+       url(/_res/opmnew/etc/NotoSansKR-Light.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/_res/opmnew/etc/NotoSansKR-DemiLight.woff2) format('woff2'),
+       url(/_res//opm/etc/NotoSansKR-DemiLight.woff) format('woff'),
+       url(/_res/opmnew/etc/NotoSansKR-DemiLight.otf) format('opentype');
+}
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 400;
+   src: url(/_res/opmnew/etc/NotoSansKR-Regular.woff2) format('woff2'),
+        url(/_res/opmnew/etc/NotoSansKR-Regular.woff) format('woff'),
+        url(/_res/opmnew/etc/NotoSansKR-Regular.otf) format('opentype');
+}
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 500;
+   src: url(/_res/opmnew/etc/NotoSansKR-Medium.woff2) format('woff2'),
+        url(/_res/opmnew/etc/NotoSansKR-Medium.woff) format('woff'),
+        url(/_res/opmnew/etc/NotoSansKR-Medium.otf) format('opentype');
+}
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 700;
+   src: url(/_res/opmnew/etc/NotoSansKR-Bold.woff2) format('woff2'),
+        url(/_res/opmnew/etc/NotoSansKR-Bold.woff) format('woff'),
+        url(/_res/opmnew/etc/NotoSansKR-Bold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/_res/opmnew/etc/NotoSansKR-Black.woff2) format('woff2'),
+       url(/_res/opmnew/etc/NotoSansKR-Black.woff) format('woff'),
+       url(/_res/opmnew/etc/NotoSansKR-Black.otf) format('opentype');
+}
+@font-face {
+     font-family: "nanumgothic";
+     src: url(/_res/opmnew/etc/NanumGothic.eot);
+     src: local("nanumgothic"), url(/_res/opmnew/etc/NanumGothic.ttf) format("truetype"),url(/_res/opmnew/etc/NanumGothic.woff);
+     src: local("※"), url(/_res/opmnew/etc/NanumGothic.woff) format('woff');
+     font-style: normal;
+     font-weight: normal;
+}
+@font-face {
+     font-family: "nanumgothicextrabold";
+     src: url(/_res/opmnew/etc/NanumGothicExtraBold.eot);
+     src: local("nanumgothic"), url(/_res/opmnew/etc/NanumGothicExtraBold.ttf) format("truetype"),url(/_res/opmnew/etc/NanumGothicExtraBold.woff);
+     src: local("※"), url(/opm/etc/NanumGothicExtraBold.woff) format('woff');
+     font-style: normal;
+     font-weight: normal;
+}
